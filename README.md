@@ -3,14 +3,14 @@
 This C program simulates a simple bank account system with basic operations such as depositing, withdrawing, and displaying the account balance.
 
 
-Features:
+Features:  
 Deposit: Add funds to the account balance.
 Withdraw: Withdraw funds from the account balance (only if sufficient funds are available).
 Display Balance: Show the current account details, including account number, holder's name, and balance.
 Requirements
 C Compiler (e.g., GCC, Clang)
 
-Usage:
+Usage:  
 When you run the program, you will be prompted to enter the following:
 Account Number: Enter a unique number to represent the account.
 Account Holder's Name: Enter the name of the account holder.
@@ -20,7 +20,7 @@ The program will present a menu with the following options:
 3. Display Balance: Displays the current balance and account details.
 4. Exit: Exits the program.
 
-#OUTPUT:
+#OUTPUT:  
 Enter Account Number: 12345
 Enter Account Holder's Name: MUNI
 
